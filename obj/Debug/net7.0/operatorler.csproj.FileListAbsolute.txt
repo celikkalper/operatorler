@@ -1,0 +1,15 @@
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/bin/Debug/net7.0/operatorler
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/bin/Debug/net7.0/operatorler.deps.json
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/bin/Debug/net7.0/operatorler.runtimeconfig.json
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/bin/Debug/net7.0/operatorler.dll
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/bin/Debug/net7.0/operatorler.pdb
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.csproj.AssemblyReference.cache
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfoInputs.cache
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.AssemblyInfo.cs
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.csproj.CoreCompileInputs.cache
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.dll
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/refint/operatorler.dll
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.pdb
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/operatorler.genruntimeconfig.cache
+/Users/alpercelik/Desktop/patikaDevC#/operatorler/obj/Debug/net7.0/ref/operatorler.dll
